@@ -228,7 +228,7 @@
 		<ProjectReference Include="..\PythonConsoleControl\PythonConsoleControl.csproj" />
 	</ItemGroup>
 	<ItemGroup>
-		<PackageReference Include="IronPython" Version="3.4.0" />
+		<PackageReference Include="IronPython" Version="3.4.2" />
 		<PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
 	</ItemGroup>
 	<PropertyGroup />

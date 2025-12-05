@@ -51,8 +51,8 @@
 	  </None>
 	</ItemGroup>
 	<ItemGroup>
-	  <PackageReference Include="AvalonEdit" Version="6.2.0.78" />
-	  <PackageReference Include="IronPython" Version="3.4.0" />
+	  <PackageReference Include="AvalonEdit" Version="6.3.1.120" />
+	  <PackageReference Include="IronPython" Version="3.4.2" />
 	</ItemGroup>
 	<PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
 		<StartAction>Project</StartAction>
